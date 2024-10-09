@@ -1,0 +1,31 @@
+# Ignore backup and log files
+*.bak
+*.log
+
+# Ignore temporary or intermediate files
+*.tmp
+*.swp
+*.swo
+*.tar.gz
+*.zip
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Perl module build files
+blib/
+Makefile
+Makefile.old
+Build
+_build/
+MANIFEST
+MYMETA.*
+*.o
+*.bs
+
+# Ignore backup directory (for weather data or logs, if created)
+backups/
+
+# Ignore node_modules or any other dependency folders if used
+node_modules/

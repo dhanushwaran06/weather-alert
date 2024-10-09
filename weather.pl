@@ -6,10 +6,9 @@ use JSON;
 use Getopt::Long;
 
 # API Key and Endpoint Configuration
-my $api_key = '233c6242ed52bc1677ae39b09c73784d';
+my $api_key = 'Your_API_here';
 my $api_endpoint = 'http://api.openweathermap.org/data/2.5/weather';
 
-# Variables for command-line options
 my $location = 'London';  # Default location
 my $alert_threshold = 0;  # Default temperature threshold
 my $help;
