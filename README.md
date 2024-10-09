@@ -1,7 +1,7 @@
 
 # Weather Data Scraper and Alert System
 
-Welcome to my **first Perl project**! 🎉 This project is designed to fetch real-time weather data from the OpenWeather API, check weather conditions (like temperature), and send alerts if certain thresholds are met. This can be easily extended to send alerts via email or SMS.
+My **first Perl project**! 🎉 This project is designed to fetch real-time weather data from the OpenWeather API, check weather conditions (like temperature), and send alerts if certain thresholds are met. This can be easily extended to send alerts via email or SMS.
 
 ## Features
 - Fetches real-time weather data for a specified city.
